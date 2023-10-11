@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lemes-de-santana-filho-070049275/)
 
 <div>
-   <a href="https://github.com/FilipeGabrielRocha">
+   <a href="https://github.com/AlexandreSantanaa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSantanaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSantanaa&layout=compact&langs_count=6&theme=tokyonight"/>
 
