@@ -1,11 +1,13 @@
-### Olá, eu sou o Alexandre Lemes
+## Olá, eu sou o Alexandre Lemes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lemes-de-santana-filho-070049275/)
 
-<div  align="center" style="margin-bottom:100px">
-<img width=44% align="center"  src="https://github-readme-stats.vercel.app/api?username=AlexandreSantanaa&show_icons=true&theme=tokyonight" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSantanaa&layout=compact&theme=tokyonight" />
- </div>
+<div>
+   <a href="https://github.com/FilipeGabrielRocha">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSantanaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSantanaa&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
 
 <div style="display"><br/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
